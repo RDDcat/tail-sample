@@ -1,0 +1,1 @@
+import{_ as t,c as s,a as r,o as c}from"./index-Dls0yabC.js";const a={},n={class:"min-h-screen flex items-center justify-center bg-background"};function o(i,e){return c(),s("div",n,e[0]||(e[0]=[r("h1",{class:"text-4xl text-primary"},"IDEA SAILS",-1)]))}const _=t(a,[["render",o]]);export{_ as default};
